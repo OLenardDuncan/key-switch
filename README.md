@@ -4,7 +4,7 @@ Toribash Lua script that changes the Z key (extends/contracts the joint) to Q an
 https://imgur.com/a/6tp71ba
 
 * **Design:**
-  * Lenárd Duncan
+  * Lester Lenard Duncan
 * **Programming:**
   * Box
   * Yoyo
